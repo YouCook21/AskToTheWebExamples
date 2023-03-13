@@ -1,4 +1,4 @@
-,chr,chrPos,depth_total,depth_5,depth_3,centroid
+,chr,chrPos,depth_total,depth_5,depth_3,Feature
 0,Contig1,1,96,96.0,,68
 1,Contig1,2,96,,,68
 2,Contig1,3,96,,,68
